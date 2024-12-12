@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @PedroLucasLimaDev
-- 🌱 I’m currently learning Python and CS50.
-- ⚡ Fun fact: I’m starting my journey in programming with Python.
+- 🌱 I’m currently learning Python by CS50P.
